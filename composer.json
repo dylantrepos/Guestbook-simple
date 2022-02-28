@@ -1,0 +1,11 @@
+{
+    "name": "dylan/site",
+    "autoload": {
+        "psr-4": {
+            "App\\": "class/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
